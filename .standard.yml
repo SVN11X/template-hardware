@@ -1,0 +1,26 @@
+# Identity of this repository for the standard.
+# After editing, run: python .standards/scripts/standard.py agents .
+standard: SVN11X/standards@v1
+owner: SVN11X
+name: CHANGE-ME
+profile: hardware
+setup: pending
+license: CERN-OHL-P-2.0
+content_language: en
+github:
+  description: ''
+  homepage: ''
+  topics:
+  - hardware
+options:
+  eda: kicad
+  firmware: platformio
+  power: usb
+  mechanical: none
+parts: {}
+part_options: {}
+extra_folders: {}
+skills:
+- repo-improve
+- code-review
+- tool-radar

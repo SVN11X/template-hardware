@@ -1,0 +1,17 @@
+# standard
+.standards/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+*-backups/
+fp-info-cache
+*.kicad_prl
+_autosave-*
+*.lck
+.pio/
+build/
+*.bak
